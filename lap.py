@@ -1,2 +1,2 @@
 a=str(raw_input())
-print(a.split())
+print len(a.split())
