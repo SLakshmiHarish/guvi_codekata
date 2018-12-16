@@ -1,6 +1,6 @@
 
-name="i love c++"
-print(name.capitalize())
+name="i love c+
+
 name1="i"
 name2="love"
 name3="c++"
